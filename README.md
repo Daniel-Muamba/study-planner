@@ -27,6 +27,4 @@ Students managing coursework and deadlines.
   - As a student, I want overdue tasks to be clearly highlighted so that I can easily see what needs urgent attention.
   - As a student, I want tasks to be sorted automatically by due date so that my upcoming deadlines are always visible.
   - As a student, I want to add a subject or category to each task so that my workload stays organized by course.
-
-
-As a student, I want to add a subject or category to each task so that my workload stays organized by course.
+  - As a student, I want to add a subject or category to each task so that my workload stays organized by course.
